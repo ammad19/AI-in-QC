@@ -10,3 +10,4 @@ Other_Faults is a noisy class because when we inspect a plate with a bump and a 
 At this point, we try to make a model which not takes into account the Other_Faults class.
 We fit a Gradient Boosting as above.
 Now the ACCURACY is 0.909%, improving by 10 percentage points.
+Credits to Marco Cerliani for this example
